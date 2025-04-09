@@ -28,7 +28,7 @@ sequenceDiagram
     Acad->>Tech: Provide predicted excavation targets
     %% 4. On-Site Validation (Geophysical Techniques, Excavation)
     Tech->>Field: Collaborate on site validation
-    note over Field: X performs validation using geophysical techniques
+    note over Field: KU performs validation using geophysical techniques
     Field->>Culture: Validate predictions & plan excavations
 
     %% 5. Feedback & Fine-Tuning
